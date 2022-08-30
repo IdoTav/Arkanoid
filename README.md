@@ -6,3 +6,11 @@ An Arkanoid game that was a part of an OOP course that I had during the first ye
 * Design patterns in OOP - Observer, Builder, etc.
 * Generic collections and data structures - linked lists and arraylists.
 * Working with GUI.
+# Installation
+1. Clone the repository:
+   ```
+   
+   ```
+2. Double click on ass6.jar
+# Demo
+
