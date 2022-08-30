@@ -11,17 +11,13 @@ An Arkanoid game that was a part of an OOP course that I had during the first ye
    ```
    $ git clone https://github.com/IdoTav/Arkanoid
    ```
-2. Enter the Arkanoid/src folder:
+2. Enter the Arkanoid folder:
    ```
-   cd Arkanoid/src
+   cd Arkanoid
    ```
-3. Compile the code:
+3. Run the game:
    ```
-   javac Ass6Game.java
-   ```
-4. Run the game:
-   ```
-   java Ass6Game
+   ass6.jar
    ```
 # Demo
 
