@@ -15,7 +15,7 @@ An Arkanoid game that was a part of an OOP course that I had during the first ye
    ```
    cd Arkanoid
    ```
-3. Run the game:
+3. Luanch the game:
    ```
    ass6.jar
    ```
