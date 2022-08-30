@@ -9,7 +9,7 @@ An Arkanoid game that was a part of an OOP course that I had during the first ye
 # Installation
 1. Clone the repository:
    ```
-   $ git clone https://github.com/IdoTav/Arkanoid.git
+   $ git clone https://github.com/IdoTav/Arkanoid
    ```
 2. Double click on ass6.jar
 # Demo
