@@ -19,5 +19,3 @@ An Arkanoid game that was a part of an OOP course that I had during the first ye
    ```
    ass6.jar
    ```
-# Demo
-
